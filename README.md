@@ -7,7 +7,7 @@ A full-featured web application built with **Next.js** and **Firebase**, designe
 ## 🚀 Features
 
 * ✨ Creator Registration & Login
-* 🔐 Firebase Authentication (Email/Password)
+* 🔐 jwt token Authentication (Email/Password)
 * 🧭 Role-based Routing (e.g., Admin vs. Creator dashboards)
 * 🗂️ Dynamic Pages (Register, Login, Dashboard, etc.)
 * 🖌️ Modern UI with Tailwind CSS
